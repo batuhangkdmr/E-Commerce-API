@@ -1,0 +1,10 @@
+# Visual Studio ve build dosyalarını hariç tut
+.vs/
+bin/
+obj/
+logs/
+*.user
+*.suo
+*.cache
+*.csproj.user
+*.db
